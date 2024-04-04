@@ -1,11 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ifaz+Md+Zahin!;" />
+</h1>
 
-<h1 align="left">My name is Ifaz md zahin and I'm from Bangladesh</h1>
+<h3 align="center">A passionate software developer from Bangladesh </h3>
 
-###
-
+<br/>
 <h2 align="left">About me</h2>
 <h2>An experienced Frontend & Software Developer with a passion for coding and a strong background in JavaScript, React,Web & API Dev.</h2>
 
