@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ifaz2611.visitor-badge"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ifaz+Md+Zahin!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh </h3>
+<h3 align="center">A passionate Web developer from Bangladesh </h3>
 
 <br/>
 <h2 align="left">About me</h2>
@@ -62,6 +62,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ifaz2611/Ifaz2611/output/snake.svg" alt="Snake animation" />
 
-###
