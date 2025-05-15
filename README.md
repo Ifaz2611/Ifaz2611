@@ -45,9 +45,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ifaz2611&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifaz2611)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifaz2611&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifaz2611&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifaz2611&show_icons=true&count_private=true&theme=dark)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ifaz2611&theme=hacker)](https://git.io/streak-stats)
 
