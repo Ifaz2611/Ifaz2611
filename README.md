@@ -8,7 +8,7 @@
 
 <br/>
 <h2 align="left">About me</h2>
-<h2 align="center">An experienced Frontend & Software Developer with a passion for coding and a strong background in JavaScript, React,Web & API Dev.</h2>
+<h2 align="center">Experienced Full-Stack Developer with a passion for clean code and expertise in JavaScript, React, and API development.</h2>
 
 
 <h2 align="left">I code with</h2>
